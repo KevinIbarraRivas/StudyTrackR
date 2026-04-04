@@ -1,8 +1,3 @@
----
-brainstorming.md
-
----
-
 ## APP BRAINSTORMING:
 1. **Study Session Timer** (Similar sorta to Tomato Timer)
 1. **Grade/Assignment Tracker** - Tracking of your current assignments and when they are due, alongside this tracking of your grades per class. Allows you to calculate your current GPA and what grades you would need on upcoming assignments to ensure the grade of your choosing
