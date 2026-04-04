@@ -1,5 +1,5 @@
 ---
-title: brainstorming.md
+brainstorming.md
 
 ---
 
