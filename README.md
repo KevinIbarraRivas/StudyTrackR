@@ -1,10 +1,3 @@
----
-title: Untitled copy
-
----
-
-Original App Design Project - README Template
-===
 # StudyTrackR
 
 ## Table of Contents
