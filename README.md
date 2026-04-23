@@ -96,3 +96,13 @@ SPRINT ITEMS COMPLETED
 - Encouraging Quotes on the home screen of the application
 - All four of the different screens with their own icons on the bar on the bottom
 - Working Stats
+
+Final VIDEO:
+<div>
+    <a href="https://www.loom.com/share/5c475ce6a7ce4a54aa591ce4ad697641">
+    </a>
+    <a href="https://www.loom.com/share/5c475ce6a7ce4a54aa591ce4ad697641">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/5c475ce6a7ce4a54aa591ce4ad697641-0b6257cfc9fbff33-full-play.gif#t=0.1">
+    </a>
+  </div>
+
