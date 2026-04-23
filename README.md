@@ -91,22 +91,8 @@ StudyTrackR is an app that lets you time and log your study sessions. You pick a
 
 <img src="wireframes/studytrackr_digital.png" width=600>
 
-### [BONUS] Interactive Prototype
-
-## Schema 
-[This section will be completed in Unit 9]
-
-### Models
-
-| Property | Type | Description |
-|----------|------|-------------|
-| objectId | String | unique id for each session |
-| subject | String | the subject the user studied |
-| duration | Number | how long the session was in seconds |
-| notes | String | any notes the user added |
-| createdAt | DateTime | when the session was saved |
-
-### Networking
-- [Add list of network requests by screen]
-- [Create basic snippets for each Parse network request]
-- [OPTIONAL: List endpoints if using existing API such as Yelp]
+SPRINT ITEMS COMPLETED
+- Working TIMER to time study sessions
+- Encouraging Quotes on the home screen of the application
+- All four of the different screens with their own icons on the bar on the bottom
+- Working Stats
