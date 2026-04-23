@@ -9,7 +9,7 @@ class QuoteService {
 
     private let url = URL(string: "https://zenquotes.io/api/random")!
 
-    // Closure-based completion (satisfies "use at least one closure" requirement)
+
     func fetchQuote(completion: @escaping (Result<Quote, Error>) -> Void) {
         URLSession.shared.dataTask(with: url) { data, _, error in
             if let error = error {
