@@ -95,7 +95,8 @@ SPRINT ITEMS COMPLETED
 - Working TIMER to time study sessions
 - Encouraging Quotes on the home screen of the application
 - All four of the different screens with their own icons on the bar on the bottom
-- Working Stats
+- Working Stat tracker for different subjects
+- Added notes section to timers to be able to make them more unique
 
 Final VIDEO:
 <div>
